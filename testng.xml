@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MySuite">
+  <test name="MyTests">
+    <classes>
+      <class name="tests.LoginTest"/>
+      <class name="tests.GoogleScreen"/>
+       <class name="tests.BjsWebTest"/>
+      
+    </classes>
+  </test>
+</suite>
