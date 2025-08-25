@@ -3,6 +3,7 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="pages.DynamicWebTablesHandle">
         <methods>
           <include name="tearDown"/>
@@ -12,6 +13,14 @@
           <include name="setUpReport"/>
         </methods>
       </class> <!-- pages.DynamicWebTablesHandle -->
+=======
+      <class name="selenium.Frames">
+        <methods>
+          <include name="test3"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- selenium.Frames -->
+>>>>>>> 7042d1454d25973fc08218fd13a31f3df46414a8
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

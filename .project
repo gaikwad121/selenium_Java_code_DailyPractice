@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SeleniumDailyCode</name>
+=======
+	<name>selenium</name>
+>>>>>>> 7042d1454d25973fc08218fd13a31f3df46414a8
 	<comment></comment>
 	<projects>
 	</projects>
