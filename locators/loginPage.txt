@@ -1,0 +1,8 @@
+suggestionOpt=//ul[@role='listbox']//li//div[@role='option']
+searchName=q
+username=user-name
+password=password
+login-button=login-button
+addcart=(//button[.='Add to cart'])[1]
+
+add=//a[@class='shopping_cart_link']
